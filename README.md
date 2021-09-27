@@ -7,4 +7,5 @@
 3. Variables
 4. Commenting
 ```
+### Strings and Inbuilt Functions
 
