@@ -1,6 +1,6 @@
 # Getting-Started-with-Julia-for-Data-Science
 
-## Basic Operations
+### Basic Operations
 ```
 1. Arithmatic Operations
 2. String Operations
